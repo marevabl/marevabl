@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student pursuing degrees in Computer Science and Mathematics &<br>Statistics at Concordia University, eager to explore new horizons while<br>gaining valuable professional experience. I am a dedicated learner with a<br>strong desire to take on new challenges.
+I am a student pursuing degrees in Computer Science and Mathematics & Statistics at Concordia University, eager to explore new horizons while gaining valuable professional experience. I am a dedicated learner with a strong desire to take on new challenges.
 
 
 ## 🌐 Socials:
