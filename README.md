@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a dedicated student pursuing degrees in Computer Science and Mathematics & Statistics at Concordia University. Eager to explore new horizons and gain valuable professional experience, I am a dedicated learner with a strong desire to take on new challenges. Currently seeking an internship opportunity for fall 2024!
+I am a dedicated student pursuing degrees in Computer Science and Mathematics & Statistics at Concordia University. Eager to explore new horizons and gain valuable professional experience, I am a dedicated learner with a strong desire to take on new challenges. 
 
 
 ## 🌐 Socials:
