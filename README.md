@@ -19,11 +19,11 @@ I am a Data Science graduate from Concordia University with hands-on expertise i
 
 ## 📂 Featured Projects
 ### [🍲 Cultural Diversity Meal Recommendation System](#)
-Built a machine learning recommendation workflow prioritizing quality and culinary representation[cite: 1]. Cleaned recipe-review data, engineered cuisine labels, and evaluated the model's outputs using both performance and diversity metrics, including Shannon entropy[cite: 1]. 
+Built a machine learning recommendation workflow prioritizing quality and culinary representation[cite: 1]. Cleaned recipe-review data, engineered cuisine labels, and evaluated the model's outputs using both performance and diversity metrics, including Shannon entropy. 
 **Tech:** `Python` `Pandas` `Scikit-learn` `Matplotlib`
 
 ### [🚦 Traffic Forecasting & Model Evaluation](#)
-Conducted comprehensive Exploratory Data Analysis (EDA) to identify underlying trends, seasonality, and anomalies in traffic data[cite: 1]. Engineered features and compared multiple machine learning models using strict error metrics to translate predictions into actionable planning insights[cite: 1].
+Conducted comprehensive Exploratory Data Analysis (EDA) to identify underlying trends, seasonality, and anomalies in traffic data[cite: 1]. Engineered features and compared multiple machine learning models using strict error metrics to translate predictions into actionable planning insights.
 **Tech:** `Python` `Pandas` `NumPy` `Scikit-learn`
 
 ### [⚽ Soccer Club Management System](#)
