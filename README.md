@@ -17,11 +17,18 @@ I am a Data Science graduate from Concordia University with hands-on expertise i
 <!-- BI & Tools -->
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white) 
 
-## 📈 GitHub Stats
-![](https://github-contributor-stats.vercel.app/api?username=marevabl&limit=5&theme=dark&combine_all_yearly_contributions=true) 
-
 ## 📂 Featured Projects
-*(Projects coming soon...)*
+### [🍲 Cultural Diversity Meal Recommendation System](#)
+Built a machine learning recommendation workflow prioritizing quality and culinary representation[cite: 1]. Cleaned recipe-review data, engineered cuisine labels, and evaluated the model's outputs using both performance and diversity metrics, including Shannon entropy[cite: 1]. 
+**Tech:** `Python` `Pandas` `Scikit-learn` `Matplotlib`
+
+### [🚦 Traffic Forecasting & Model Evaluation](#)
+Conducted comprehensive Exploratory Data Analysis (EDA) to identify underlying trends, seasonality, and anomalies in traffic data[cite: 1]. Engineered features and compared multiple machine learning models using strict error metrics to translate predictions into actionable planning insights[cite: 1].
+**Tech:** `Python` `Pandas` `NumPy` `Scikit-learn`
+
+### [⚽ Soccer Club Management System](#)
+Designed and implemented a relational database architecture featuring comprehensive entity schemas and custom MySQL triggers. Executed web interface scripts to connect the backend database with a frontend application for streamlined club management.
+**Tech:** `MySQL` `Database Design` `Web Interface`
 
 
 
