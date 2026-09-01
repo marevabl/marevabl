@@ -1,13 +1,13 @@
 # 💫 Hi, I'm Mareva
 ### Junior Data Scientist / ML Analyst | Data Science Graduate
 
-I am a Data Science graduate from Concordia University with hands-on expertise in machine learning, data analysis, automation, and model evaluation[cite: 1]. I specialize in utilizing Python, SQL, and statistical analysis to translate complex data into actionable insights[cite: 1]. 
+I am a Data Science graduate from Concordia University with hands-on expertise in machine learning, data analysis, automation, and model evaluation. I specialize in utilizing Python, SQL, and statistical analysis to translate complex data into actionable insights. 
 
 ## 🚀 About Me
-- 🎓 **Education:** Bachelor of Computer Science - Joint Major in Data Science from Concordia University[cite: 1].
-- 💼 **Experience:** Designed statistical validation engines and automated critical data workflows at Pratt & Whitney[cite: 1]. 
-- 🤝 **Leadership:** Led onboarding, intensive technical training, and coaching for hundreds of employees as a Training Lead at Apple[cite: 1].
-- 📫 **Let's connect:** Reach out via [LinkedIn](https://linkedin.com/in/marevabldata-science) or email at marevabl@hotmail.com[cite: 1].
+- 🎓 **Education:** Bachelor of Computer Science - Joint Major in Data Science from Concordia University.
+- 💼 **Experience:** Designed statistical validation engines and automated critical data workflows at Pratt & Whitney. 
+- 🤝 **Leadership:** Led onboarding, intensive technical training, and coaching for hundreds of employees as a Training Lead at Apple.
+- 📫 **Let's connect:** Reach out via [LinkedIn](https://linkedin.com/in/marevabldata-science) or email at marevabl@hotmail.com.
 
 ## 💻 Tech Stack
 <!-- Core Languages & Libraries -->
@@ -19,6 +19,9 @@ I am a Data Science graduate from Concordia University with hands-on expertise i
 
 ## 📈 GitHub Stats
 ![](https://github-contributor-stats.vercel.app/api?username=marevabl&limit=5&theme=dark&combine_all_yearly_contributions=true) 
+
+## 📂 Featured Projects
+*(Projects coming soon...)*
 
 
 
